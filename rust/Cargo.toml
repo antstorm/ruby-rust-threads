@@ -1,0 +1,10 @@
+[package]
+name = "thread_term"
+version = "0.0.1"
+
+[dependencies]
+rutie = "0.8.4"
+
+[lib]
+name = "thread_term"
+crate-type = ["dylib"]
